@@ -9,3 +9,22 @@
 
 # Undo-tree save-files
 *.~undo-tree
+
+# Created by https://www.toptal.com/developers/gitignore/api/emacs
+# Edit at https://www.toptal.com/developers/gitignore?templates=emacs
+
+### Emacs ###
+# -*- mode: gitignore; -*-
+\#*\#
+/.emacs.desktop
+/.emacs.desktop.lock
+auto-save-list
+.\#*
+
+# Org-mode
+.org-id-locations
+*_archive
+
+# directory configuration
+.dir-locals.el
+
